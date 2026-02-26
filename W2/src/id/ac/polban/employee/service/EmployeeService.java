@@ -1,8 +1,8 @@
 package id.ac.polban.employee.service;
 
+import id.ac.polban.employee.model.*;
 import java.util.HashMap;
-import java.util.Map;
-import id.ac.polban.employee.model.*; // Import model agar bisa digunakan
+import java.util.Map; // Import model agar bisa digunakan
 
 public class EmployeeService {
     // Menyimpan data karyawan di dalam Map (ID sebagai Key)
