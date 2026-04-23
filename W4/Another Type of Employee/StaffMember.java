@@ -31,7 +31,7 @@ abstract public class StaffMember
         result += "Phone: " + phone;
 
         return result;
-}
+    }
 
 //-----------------------------------------------------------------
 // Derived classes must define the pay method for each type of
