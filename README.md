@@ -1,6 +1,4 @@
 # Praktikum Teknik Pemrograman
-Employee Management System (Java)
-
 
 Disusun oleh:  
 Firliana Febrina  
